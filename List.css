@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+}
+
+.List {
+  max-width: 600px;
+
+  margin: 20px auto;
+  box-sizing: border-box;
+  padding: 20px;
+  border: 1px solid gray;
+
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+

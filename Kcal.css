@@ -1,0 +1,88 @@
+
+div
+{
+    text-align:center;
+}
+
+h2
+{
+    font-size:1.7rem;
+    color:#495057;
+    width:100%;
+    margin:20px auto;
+    padding :20px;
+    display:flex;
+    flex-direction:column;
+    border-bottom: 1px solid #ccc;
+    max-width:500px;
+
+}
+
+span
+{
+    
+font-size:15px;
+    background-color:#E9ECEF;
+    color:#495057;
+    border-radius: 1.5px;
+position: relative;
+line-height:40px;
+display: inline-block;
+justify-content: space-between;
+align-items: center; 
+margin: auto;
+width:50px;
+}
+select
+{
+    border :0.5px solid lightgrey;
+    color:#495057;
+     font-size:17px;
+     border-radius:1.5px;
+     width:562px;
+     position: relative;
+     height:50px;
+}
+input
+{    
+    border: 0.5px solid lightgrey;
+     position: relative;
+     border-radius:1.5px;
+     font-size:17px;
+     text-align:right;
+width:490px;
+height:39px;
+padding:0 10px;
+}
+
+
+option
+{
+    
+    color:#495057;
+    font-size:16px;
+}
+ span, input,select
+  {
+
+    line-height:40px;
+    display: inline-block; 
+    vertical-align: middle; 
+    margin:0%;
+    padding:5px;
+  }
+
+  button.calc-button{
+    background-color:#6c757d;
+    color:white;
+    width:500px;
+    height:40px;
+    margin-top: 20px;
+    cursor:pointer;
+    background-color: #6c757d;
+
+  }
+  button.calc-button:hover{
+    background-color:#4c4c4c;
+
+}

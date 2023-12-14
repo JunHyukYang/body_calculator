@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "username1",
+      "password": "password1"
+    },
+    {
+      "id": 2,
+      "username": "20191526",
+      "password": "20191526"
+    }
+  ],
+  "board": [
+    {
+      "contents": "wqeqweeqw",
+      "id": 1
+    },
+    {
+      "contents": "벤치프레스 5set\n체스트프레스 5set\n딥스 5set",
+      "id": 2
+    },
+    {
+      "contents": "벤치프레스 5set\n체스트프레스 5set\n딥스 5set",
+      "id": 3
+    },
+    {
+      "contents": "qwe",
+      "id": 4
+    },
+    {
+      "contents": "qwewq",
+      "id": 5
+    },
+    {
+      "contents": "ㅂㅈㄷㅂㅈ",
+      "id": 6
+    },
+    {
+      "contents": "",
+      "id": 7
+    },
+    {
+      "contents": "qweqwqe",
+      "id": 8
+    },
+    {
+      "contents": "",
+      "id": 9
+    },
+    {
+      "contents": "qweqweqe",
+      "id": 10
+    }
+  ]
+}
